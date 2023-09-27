@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "price": 699,
+      "weight": 0.3,
+      "description": "The latest Smartphone X with advanced features."
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "price": 1299.99,
+      "weight": 1.2,
+      "description": "Laptop Pro with high performance and long battery life."
+    },
+    {
+      "id": 3,
+      "name": "TV Ultra",
+      "price": 899.5,
+      "weight": 12,
+      "description": "TV Ultra with 4K resolution and smart TV features."
+    },
+    {
+      "id": 4,
+      "name": "Kaffemaskine Deluxe",
+      "price": 149.95,
+      "weight": 5,
+      "description": "Kaffemaskine Deluxe for the perfect cup of coffee."
+    },
+    {
+      "id": 5,
+      "name": "Trådløse Hovedtelefoner",
+      "price": 79.99,
+      "weight": 0.2,
+      "description": "Wireless headphones with noise reduction and high sound quality."
+    },
+    {
+      "id": 6,
+      "name": "Tablet Pro",
+      "price": 399,
+      "weight": 0.5,
+      "description": "Tablet Pro with a large screen and fast performance."
+    },
+    {
+      "id": 7,
+      "name": "Fitness Tracker 3",
+      "price": 49.99,
+      "weight": 0.1,
+      "description": "Fitness Tracker 3 for tracking your workout activities."
+    },
+    {
+      "id": 8,
+      "name": "Robotstøvsuger Ultra",
+      "price": 299.99,
+      "weight": 3.5,
+      "description": "Robotstøvsuger Ultra with intelligent navigation."
+    },
+    {
+      "id": 9,
+      "name": "Køkkenmaskine Pro",
+      "price": 199.95,
+      "weight": 7,
+      "description": "Køkkenmaskine Pro for world-class cooking and baking."
+    },
+    {
+      "id": 10,
+      "name": "Digitalkamera Premium",
+      "price": 799,
+      "weight": 0.8,
+      "description": "Digitalkamera Premium with high resolution and advanced features."
+    }
+  ]
+}
