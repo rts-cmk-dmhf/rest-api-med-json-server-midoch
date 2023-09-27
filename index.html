@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Catalog</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>Product List</h1>
+
+    <h2>Add Product</h2>
+    <form id="addProductForm">
+      <label for="productName">Product Name:</label>
+      <input type="text" id="productName" required />
+      <label for="productPrice">Price:</label>
+      <input type="number" id="productPrice" required />
+      <label for="productWeight">Weight:</label>
+      <input type="number" id="productWeight" required />
+      <label for="productDescription">Description:</label>
+      <input type="text" id="productDescription" required />
+      <button type="submit">Add Product</button>
+    </form>
+
+    <ul id="productList"></ul>
+
+    <script src="script.js"></script>
+  </body>
+</html>
